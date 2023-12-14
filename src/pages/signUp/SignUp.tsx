@@ -1,3 +1,5 @@
+import Layout from "../../shared/layout/Layout";
+
 export default function SignUp() {
-  return <div>SignUp slala</div>;
+  return <Layout>SignUp slala</Layout>;
 }
